@@ -1,0 +1,72 @@
+@font-face {
+    font-family: Young;
+    src: url(https://fonts.google.com/specimen/Young+Serif);
+    font-family: Outfit;
+    src: url(https://fonts.google.com/specimen/Outfit);
+}
+img {
+    max-width: 100%;
+    width: 1440px;
+}
+img {
+    border-radius: 10px;
+}
+body {
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+h1, h2 {
+    font-family: Young, serif;
+}
+p {
+    font-family: Outfit, sans-serif;
+}
+h3 {
+    color: hsl(332, 51%, 32%);
+    padding-left: 20px;
+    padding-top: 20px;
+}
+h2, td {
+    color: hsl(14, 45%, 36%);
+}
+div.Prep {
+    background-color: hsl(330, 100%, 98%);
+    border-radius: 10px;
+    padding-bottom: 5px;
+}
+li::marker {
+    color: hsl(14, 45%, 36%);
+    font-weight: bold;
+    padding-left: 20px;
+}
+li {
+    padding-left: 10px;
+    padding-bottom: 10px;
+    font-family: Outfit, sans-serif;
+}
+ul.a {
+    padding-inline-start: 25px;
+}
+ol.b {
+    padding-inline-start: 25px;
+}
+table {
+    border-collapse: collapse;
+    width: 100%;
+}
+th, td {
+    padding: 8px;
+    text-align: left;
+    border-bottom: 1px solid #ddd;
+    font-family: Outfit, sans-serif;
+}
+th {
+    font-weight: normal;
+    padding-left: 30px;
+}
+td {
+    font-weight: bold;
+    padding-right: 100px;
+}
