@@ -3,7 +3,6 @@
 - [Overview](#overview)
   - [The challenge](#the-challenge)
   - [Screenshot](#screenshot)
-  - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
@@ -17,9 +16,6 @@ Recipe page using HTML and CSS
 
 ### Screenshot
 ![](./Recipe screenshot.jpg)Recipe screenshot.jpg
-### Links
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
 ## My process
 Completing the HTML was pretty straightforward. The paragraphs and headings were not too difficult to complete but including the picture and the table was. I had to use MDN as reference to know what to do. CSS on the other hand wasn't as straightforward. I was constantly referencing MDN and W3Schools.
 ### Built with
